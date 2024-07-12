@@ -49,14 +49,15 @@ public class CreateNewContactTest extends BaseClass{
 				
 				//Assert.assertTrue(contactheader.contains(LASTNAME));//Hard Assert
 				
-				System.out.println(contactheader);		
+				System.out.println(contactheader);	
+				System.out.println("wait for one year, YOUR FINANCIAL PROBLEMS WILL GET RESOLVE SOON");
 						
 	}
    @Test
    public void sample()//Non Static method with void return type
    {
 	   System.out.println("demo");
-	  // System.out.println("ANNAPOORNA SOON GET JOB IN AUTOMATIOn");
+	  System.out.println("ANNAPOORNA SOON GET JOB IN AUTOMATIOn");
    }
 }
 
